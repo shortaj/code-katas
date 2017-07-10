@@ -1,3 +1,3 @@
-# code-katas: Proper Parenthetics
+My answer in python3 to Sudoku Solution Validator(https://www.codewars.com/kata/sudoku-solution-validator/train/python/596163fbcaa9ffce8a000026).
 
-The goal of this app is to parse given text and tell return whether or not the parenthesis were properly opended and closed. A return of 1 means there is open parens. -1 means there is a closing paren with no open paren to match. 0 means there is no errors.
+The valid_solution function accepts a list of lists. Specifically a matrix of 9 * 9. It returns True on a valid solution to a sudoku puzzle and false otherwise.
